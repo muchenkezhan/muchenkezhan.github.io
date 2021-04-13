@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://muchenkezhan.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-13T16:45:27.464Z</updated>
+    <updated>2021-04-13T16:56:21.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://muchenkezhan.github.io"/>
     <link rel="self" href="https://muchenkezhan.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://muchenkezhan.github.io/images/avatar.png</logo>
     <icon>https://muchenkezhan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[折腾hexo静态博客还没入门就放弃了旧时代的产物终将被淘汰]]></title>
+        <id>https://muchenkezhan.github.io/post/zhe-teng-hexo-jing-tai-bo-ke-huan-mei-ru-men-jiu-fang-qi-liao-jiu-shi-dai-de-chan-wu-zhong-jiang-bei-tao-tai/</id>
+        <link href="https://muchenkezhan.github.io/post/zhe-teng-hexo-jing-tai-bo-ke-huan-mei-ru-men-jiu-fang-qi-liao-jiu-shi-dai-de-chan-wu-zhong-jiang-bei-tao-tai/">
+        </link>
+        <updated>2021-04-13T16:50:47.000Z</updated>
+        <content type="html"><![CDATA[<p>折腾hexo静态博客还没入门就放弃了旧时代的产物终将被淘汰</p>
+<p>前几天看群里说hexo静态可以，因为我接触博客系统是从emlog开始的，毕竟有手就行，然后慢慢emlog官网都西了，就折腾到zblog --typecho，今天就折腾hexo，看了一下hexo类的说明感觉挺牛逼的，毕竟从来没有接触过静态博客系统，感觉挺稀奇的，</p>
+<p>于是开始</p>
+<p>第一步我百度找了许多教程发现大篇大篇的安装这么多东西就想放弃了，然后我硬着头皮把需要的nodejs，gjt安装好了开始安装hexo就这样了</p>
+<p>漂亮，折腾佬，折腾东西不出问题还是折腾佬吗，</p>
+<p>然后我继续找教程又是更新pip，什么我都更新了，还是这样：<br>
+<img src="https://muchenkezhan.github.io/post-images/1618332771949.png" alt="" loading="lazy"></p>
+<p>于是我换了一种方法安装：.....漂亮...还是报错啥依赖类跳过........</p>
+<figure data-type="image" tabindex="1"><img src="https://muchenkezhan.github.io/post-images/1618332876888.png" alt="" loading="lazy"></figure>
+<p>然后我找群里面折腾过的大佬请教   ..直接叫我放弃...我直接好家伙...我猜他折腾得老火，</p>
+<figure data-type="image" tabindex="2"><img src="https://muchenkezhan.github.io/post-images/1618332915971.png" alt="" loading="lazy"></figure>
+<p>我就去他用的这个静态博客看看发现简单明了，拖着沉重的心情，安装了</p>
+<p>正我打开软件的时候    ....我直接好家伙  什么都没有。。。简直漂亮  不出问题怎么叫折腾佬呢   无法我直接又放弃了</p>
+<figure data-type="image" tabindex="3"><img src="https://muchenkezhan.github.io/post-images/1618332953151.png" alt="" loading="lazy"></figure>
+<p></p>
+<p>总结一下：麻烦的东西终将被时代取缔，新时代年轻人都不喜欢麻烦的东西，只不过有些人念旧罢了。</p>
+<p>先记录到这里吧</p>
+<p>有空来我沐辰客栈玩玩：</p>
+<p>http://www.qqm90.cn/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://muchenkezhan.github.io/post/hello-gridea/</id>
